@@ -11,3 +11,10 @@
 h1{
     text-align: center;
 }
+.pseudo{
+    display: block;
+    color: goldenrod;
+}
+.pseudo:hover{
+    color: purple;
+}
